@@ -1,0 +1,12 @@
+Package: vibraeditor
+Version: 2.3.0
+Architecture: aarch64
+Maintainer: InAddict1 VibraNet <contact.vibranet@proton.me>
+Description: un éditeur francophone
+Filename: dists/stable/main/binary-aarch64/VibraEditor-2.3.deb
+Size: 69788
+MD5Sum: 395ed5b0a78ab902d968d50621689a9b
+SHA1: 65c88623cb414edab0d0954bab89f804c21c6e2f
+SHA256: 315bd7dba6cbc170a89c2a3ecb22b4e492e5dd2ddbc52adefce340295db3e132
+SHA512: 04b38e0fb1cb04dc77a169b8c685f0fc62801ee56a38664b4d9a928b7bc414909b960421a147839cfcc762f4f356b236a4402058a78ae0365bed1e2722b754a4
+
